@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-🌱 I’m currently learning 
+🚀 AI & ML Enthusiast | Data Science | Agentic AI
+I’m passionate about AI, machine learning, and data science. I enjoy building intelligent systems and exploring the potential of Agentic AI. Always learning and working on cool projects.
+
+Let’s collaborate! 🌐
 
 <!--
 **Arshp-svg/Arshp-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
