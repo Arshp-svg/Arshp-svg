@@ -1,5 +1,3 @@
-## Hi there 👋
-
 🚀 AI & ML Enthusiast | Data Science | Agentic AI
 I’m passionate about AI, machine learning, and data science. I enjoy building intelligent systems and exploring the potential of Agentic AI. Always learning and working on cool projects.
 
