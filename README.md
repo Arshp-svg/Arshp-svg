@@ -6,7 +6,7 @@
 
 ### 💡 I build AI systems that solve real problems — from research to production
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arsh-patel-bb23502)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arshpatel213@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=safari&logoColor=white)]()
 
