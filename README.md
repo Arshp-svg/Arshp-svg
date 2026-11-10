@@ -236,9 +236,9 @@ Hypothesis-driven backend engineering, with every change measured under load.
 <div align="center">
 
 <!-- Cards below are generated into this repo by .github/workflows/profile-summary.yml -->
-<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
-<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" />
+<img height="200" src="./profile-summary-card-output/solarized_dark/3-stats.svg" alt="GitHub stats" />
+<img height="200" src="./profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Top languages by repo" />
+<img height="200" src="./profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Most committed languages" />
 
 <br/>
 
