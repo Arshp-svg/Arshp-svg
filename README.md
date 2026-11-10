@@ -235,16 +235,14 @@ Hypothesis-driven backend engineering, with every change measured under load.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arshp-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshp-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+<!-- Cards below are generated into this repo by .github/workflows/profile-summary.yml -->
+<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
+<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Arshp-svg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshp-svg&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution graph" />
 
 <br/>
 
